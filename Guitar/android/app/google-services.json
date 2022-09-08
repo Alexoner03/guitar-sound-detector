@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "551125772190",
+    "project_id": "guitar-deffe",
+    "storage_bucket": "guitar-deffe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551125772190:android:fbaa6f83a2375a97b8d88f",
+        "android_client_info": {
+          "package_name": "com.example.guitar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551125772190-8hb82f81e4osvc6gvvprb2jr62qprjne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.guitar",
+            "certificate_hash": "0afcf6a650c817277ad4e3d0be6968b354913602"
+          }
+        },
+        {
+          "client_id": "551125772190-e81n31tius9ge468mq469ceu3rg26cae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSKSCzIUyjSg_KEI0iZCOe1RwfP4g0qCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551125772190-e81n31tius9ge468mq469ceu3rg26cae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551125772190:android:2bb027f34f402751b8d88f",
+        "android_client_info": {
+          "package_name": "com.example.guitar_ucv_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551125772190-e81n31tius9ge468mq469ceu3rg26cae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSKSCzIUyjSg_KEI0iZCOe1RwfP4g0qCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551125772190-e81n31tius9ge468mq469ceu3rg26cae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551125772190:android:d9e777d527109433b8d88f",
+        "android_client_info": {
+          "package_name": "com.ucv.guitar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551125772190-ki800hp77ls1pp58r5ocek9dgr1c0rah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ucv.guitar",
+            "certificate_hash": "0afcf6a650c817277ad4e3d0be6968b354913602"
+          }
+        },
+        {
+          "client_id": "551125772190-e81n31tius9ge468mq469ceu3rg26cae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSKSCzIUyjSg_KEI0iZCOe1RwfP4g0qCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551125772190-e81n31tius9ge468mq469ceu3rg26cae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

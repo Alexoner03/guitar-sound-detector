@@ -1,0 +1,8 @@
+0 Do
+1 Fa
+2 La
+3 Mi
+4 Re
+5 Ruido de fondo
+6 Si
+7 Sol
